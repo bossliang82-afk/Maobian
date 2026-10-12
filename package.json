@@ -1,0 +1,20 @@
+{
+  "name": "deckle-edge",
+  "version": "1.0.0",
+  "description": "毛边 (Deckle Edge) - 桌面情绪常驻便签小组件",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "widget",
+    "diary",
+    "mood",
+    "deckle-edge"
+  ],
+  "author": "毛边",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^33.2.0"
+  }
+}
